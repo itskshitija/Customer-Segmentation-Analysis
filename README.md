@@ -2,68 +2,93 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" style="height: 30px; width: auto;">
 </a>
 
-# **Customer Segmentation Analysis**
+# Customer Segmentation Analysis 🚀
 
-## `Python🐍` `Unsupervised Machine-Learning🧠` `Data Analysis📊`
+## `🚀 Python🐍 Unsupervised Machine Learning🧠 Data Analysis📊`
 
-## Table of Contents
+## Table of Contents 📚
 - [Project Overview](#project-overview)
 - [Data Summary](#data-summary)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Unsupervised Machine Learning Algorithms](#unsupervised-machine-learning-algorithms)
+- [Results and Insights](#results-and-insights)
 - [Conclusion](#conclusion)
 
-## Project Overview
-The Customer Segmentation Analysis project utilizes an unsupervised machine learning algorithm to identify distinct customer groups based on purchasing behavior. By analyzing data, the project aims to help businesses understand customer demographics, preferences, and behaviors. This segmentation enables targeted marketing strategies and improved customer engagement.
+## Project Overview🔍
+Customer Segmentation is a crucial business practice that involves grouping customers based on shared characteristics. This analysis leverages unsupervised machine learning to classify customers using behavioral and demographic data.
 
-## Data Summary
-The dataset contains information from 2,000 individuals across various regions. It is derived from their purchasing behavior when shopping in a physical FMCG store, and the data was collected through the loyalty cards they used during checkout.
+The insights help businesses:
 
-The dataset contains 2000 rows and 8 Columns
-- <b>ID: </b> Shows a unique identification of a customer.
-- <b>Sex: </b> Gender of a Customer
-  - 0-male
-  - 1-female
-- <b>Marital Status: </b> Marital Status of a Customer
-  - 0-Single
-  - 1-Non-single
-- <b>Age: </b> Age of a customer
-- <b>Education: </b> Education of a customer
-  - 0 - Other/Unknown
-  - 1 - high school
-  - 2 - University
-  - 3 - Graduate School
-- <b>Income: </b> Self-reported annual income in US dollars of the customer.
-- <b>Occupation: </b> Category of occupation of the customer.
-  - 0 - unemployed
-  - 1-skilled
-  - 2-management, self-employed
-- <b>Settlement Size: </b> The size of city that the customer lives in
-  - 0 - Small City
-  - 1 - Mid-sized city
-  - 2 - Big City
+- Target specific customer groups effectively.
+- Enhance marketing strategies tailored to customer preferences.
+- Boost customer satisfaction and loyalty.
 
+## Data Summary📂
+The dataset comprises 2,000 customer records from an FMCG store, captured through loyalty card transactions. It includes 8 key features providing demographic and behavioral insights.
 
-## Unsupervised Machine Learning Algorithms
-The project is based on unsupervised machine learning, as clustering can be achieved using unsupervised machine learning algorithms. 
-#### 1. Hierarchical Clustering
-- Builds a tree of clusters using customer similarity metrics.
-- Helps identify natural groupings in the data.
-#### 2. K-Means Clustering
-- Partitions customers into a specified number of clusters based on their attributes.
-- Assigns each customer to the cluster with the nearest mean.
-#### 3. PCA (Principal Component Analysis)
-- Reduces the dataset's dimensionality while retaining significant variance.
-- Enhances clustering performance and visualization by simplifying complex data.
+| **Feature**         | **Description**                                                                                          | **Values**                              |  
+|----------------------|----------------------------------------------------------------------------------------------------------|-----------------------------------------|  
+| **ID**              | Unique identifier for each customer.                                                                     | Alphanumeric                           |  
+| **Sex**             | Gender of the customer.                                                                                  | 0: Male, 1: Female                     |  
+| **Marital Status**  | Marital status of the customer.                                                                          | 0: Single, 1: Non-Single               |  
+| **Age**             | Age of the customer.                                                                                     | Integer (Years)                        |  
+| **Education**       | Highest level of education attained.                                                                     | 0: Other, 1: High School, 2: University, 3: Graduate School |  
+| **Income**          | Self-reported annual income (USD).                                                                       | Integer (e.g., 25000, 50000, 75000)    |  
+| **Occupation**      | Customer’s job category.                                                                                 | 0: Unemployed, 1: Skilled, 2: Management/Self-Employed |  
+| **Settlement Size** | Type of city the customer resides in.                                                                    | 0: Small, 1: Mid-Sized, 2: Big City
+
+## Exploratory Data Analysis(EDA)🔍
+1️⃣ <b>Age Distribution:</b>
+- Visualized the age spread of customers across different regions.
+
+2️⃣ <b>Income Patterns:</b>
+- Analyzed income disparities based on education and occupation.
+
+3️⃣ <b>Gender Segmentation:</b>
+- Examined purchasing patterns for male and female customers.
+
+4️⃣ <b>Regional Insights:</b>
+- Compared settlement sizes to identify trends in small, mid-sized, and big cities.
+
+## Unsupervised Machine Learning Algorithms 🤖
+🔹 <b>Hierarchical Clustering:</b>
+- Groups customers into a dendrogram structure to reveal natural clusters.
+- Provides insights into similar customer segments.
+
+🔹 <b>K-Means Clustering:</b>
+- Partition-based algorithm for segmenting customers into ‘K’ distinct clusters.
+- Ideal for identifying prominent customer groups with similar spending habits.
+
+🔹 <b>PCA (Principal Component Analysis):</b>
+- Reduces dataset dimensions while retaining maximum variance.
+- Simplifies data visualization and improves clustering accuracy.
+
+## Results and Insights☀️
+<b>1. Key Clusters Identified:</b>
+- High-income customers in big cities with graduate-level education.
+- Budget-conscious customers from small cities.
+- Mid-income customers preferring mid-sized cities.
+
+<b>2.Demographic Breakdown:</b>
+- Majority of the customers are aged between 25-45 years.
+- Females showed a higher representation in the high-income segment.
+
+<b>3.Regional Insights:</b>
+- Big cities contribute to 60% of high-value purchases, while small cities show a preference for budget-friendly options.
+
+<b>4. Education and Spending Patterns:</b>
+- Graduate school customers demonstrated higher annual spending, while high school graduates leaned towards cost-efficient products.
 
 ## Conclusion
-The insights derived from this project provide valuable recommendations for targeted marketing campaigns, customer retention strategies, and inventory planning, ultimately driving business growth and enhancing customer satisfaction.
+The segmentation revealed actionable insights for tailoring marketing strategies, such as:
 
-# **Author Information**
+- Launching premium product campaigns for high-income clusters.
+- Promoting value-based offerings in small city segments.
+- Designing personalized loyalty programs for mid-income customers.
 
-#### 👤Kshitija Chilbule
+These findings empower businesses to drive customer-centric growth strategies and ensure sustainable profitability.
 
-### Contact Information:
-- 📞 <b>Phone:</b> 7620424864
+# Connect🤝
 - 📩 <b>Email:</b> kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/

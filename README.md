@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis
+# **Customer Segmentation Analysis**
 
 ## `Python🐍` `Unsupervised Machine-Learning🧠` `Data Analysis📊`
 
@@ -8,10 +8,10 @@
 - [Unsupervised Machine Learning Algorithms](#unsupervised-machine-learning-algorithms)
 - [Conclusion](#conclusion)
 
-### Project Overview
+## Project Overview
 The Customer Segmentation Analysis project utilizes an unsupervised machine learning algorithm to identify distinct customer groups based on purchasing behavior. By analyzing data, the project aims to help businesses understand customer demographics, preferences, and behaviors. This segmentation enables targeted marketing strategies and improved customer engagement.
 
-### Data Summary
+## Data Summary
 The dataset contains information from 2,000 individuals across various regions. It is derived from their purchasing behavior when shopping in a physical FMCG store, and the data was collected through the loyalty cards they used during checkout.
 
 The dataset contains 2000 rows and 8 Columns
@@ -39,7 +39,7 @@ The dataset contains 2000 rows and 8 Columns
   - 2 - Big City
 
 
-### Unsupervised Machine Learning Algorithms
+## Unsupervised Machine Learning Algorithms
 The project is based on unsupervised machine learning, as clustering can be achieved using unsupervised machine learning algorithms. 
 #### 1. Hierarchical Clustering
 - Builds a tree of clusters using customer similarity metrics.
@@ -51,10 +51,10 @@ The project is based on unsupervised machine learning, as clustering can be achi
 - Reduces the dataset's dimensionality while retaining significant variance.
 - Enhances clustering performance and visualization by simplifying complex data.
 
-### Conclusion
+## Conclusion
 The insights derived from this project provide valuable recommendations for targeted marketing campaigns, customer retention strategies, and inventory planning, ultimately driving business growth and enhancing customer satisfaction.
 
-## Author Information
+# **Author Information**
 
 #### 👤Kshitija Chilbule
 

@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis
 
-## `Python🐍` `Machine-Learning🧠`
+## `Python🐍` `Unsupervised Machine-Learning🧠` `Data Analysis📊`
 
 ## Table of Contents
 - [Project Overview](#project-overview)

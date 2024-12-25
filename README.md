@@ -67,7 +67,7 @@ The dataset comprises 2,000 customer records from an FMCG store, captured throug
 <b>1. Key Clusters Identified:</b>
 - High-income customers in big cities with graduate-level education.
 - Budget-conscious customers from small cities.
-- Mid-income customers preferring mid-sized cities.
+- Mid-income customers prefer mid-sized cities.
 
 <b>2.Demographic Breakdown:</b>
 - Majority of the customers are aged between 25-45 years.

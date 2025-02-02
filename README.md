@@ -89,7 +89,7 @@ The segmentation revealed actionable insights for tailoring marketing strategies
 These findings empower businesses to drive customer-centric growth strategies and ensure sustainable profitability.
 
 # Connect🤝
-- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 📩 <b>Email:</b> mailto:kshitijachilbule5@gmail.com
 - 👩‍💻 <b>Github:</b> https://github.com/itskshitija
 - 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
 - 📜 <b>Medium:</b> https://medium.com/@kshitijachilbule2
